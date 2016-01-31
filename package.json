@@ -19,7 +19,7 @@
     "Jeff Cross <crossj@google.com>"
   ],
   "dependencies": {
-    "angular2": "2.0.0-beta.1",
+    "angular2": "2.0.0-beta.2",
     "angular2-universal-preview": "0.42.0",
     "es6-shim": "^0.33.3",
     "css": "2.2.1",
